@@ -1,7 +1,3 @@
-Here is the perfectly encoded and formatted `README.md` file. The copy-pasting from earlier smashed the code blocks and tables together, but this version has the markdown syntax fully repaired so it will render beautifully on GitHub.
-
-Copy this entire block exactly as it is:
-
 ```markdown
 # Node.js + MongoDB CRUD API
 
